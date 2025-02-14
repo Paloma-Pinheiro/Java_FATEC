@@ -1,2 +1,2 @@
 # Java_FATEC
-Exercícios de treinamento em Java aplicados durante o curso na FATEC Zona Leste.
+Exercícios de treinamento em Java aplicados durante o curso na FATEC Zona Leste. O projeto foi desenvolvido com o objetivo de armazenar e documentar a minha evolução na linguagem Java, utilizando exclusivamente os conhecimentos adquiridos durante a faculdade. Essa iniciativa visa acompanhar o progresso do meu aprendizado e demonstrar o aprimoramento das minhas habilidades ao longo do tempo.
